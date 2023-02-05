@@ -1,0 +1,5 @@
+https://developer.spotify.com/console/get-following/
+https://developer.spotify.com/console/put-following/
+
+get APIkey
+put it into secrets.py
