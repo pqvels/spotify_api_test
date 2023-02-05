@@ -1,1 +1,1 @@
-# spoty
+Practice with Spotify API
